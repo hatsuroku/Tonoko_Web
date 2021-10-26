@@ -1,0 +1,142 @@
+﻿body
+{
+	font: 13px/1.5 Arial;
+	/* 由于web.config中的charset为gb2312，所以下面的语句不适用，但是下面的语句的浏览器/操作系统的兼容性较佳
+	/* font: 13px/1.5 'Helvetica Neue', Arial, 'Liberation Sans', FreeSans, sans-serif; */
+}
+
+a
+{
+	text-decoration:none;
+}
+
+a:hover
+{
+	color: #CC3300;
+}
+
+.align_center
+{
+	text-align:center;
+}
+
+.align_left
+{
+	text-align:left;
+}
+
+
+.align_right
+{
+	text-align:right;
+}
+
+.clear {
+  clear: both;
+  display: block;
+  overflow: hidden;
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+
+.container960
+{
+	max-width:960px;
+	margin:0 auto;
+}	
+
+.fleft
+{
+	float:left;
+}
+
+.fright
+{
+	float:right;
+}
+
+.halign_center
+{
+	margin:0 auto;
+}
+
+.hpadding_1
+{
+	padding:0 4px;
+}
+
+.hpadding_2
+{
+	padding:0 8px;
+}
+
+
+.hpadding_3
+{
+	padding:0 16px;
+}
+
+.margin_1
+{
+	margin:4px 0;
+}
+
+.margin_2
+{
+	margin:8px 0
+}
+
+.margin_3
+{
+	margin:16px 0;
+}
+
+
+.modalpopup
+{
+	background-color: #fff;
+	border: 5px solid #CC9900;
+}
+
+.modalpopup_background
+{
+	
+}
+
+.padding_1
+{
+	padding:4px 0;
+}
+
+.padding_2
+{
+	padding:8px 0
+}
+
+.padding_3
+{
+	padding:16px 0;
+}
+
+.table
+{
+	border-collapse:collapse;	
+}
+
+.table td
+{
+	border:1px solid #CCCCCC;
+	padding:4px;
+}
+
+
+.input
+{
+}
+
+
+.input:focus
+{
+	border: 1px solid #FF9900;
+}

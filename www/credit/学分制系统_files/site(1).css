@@ -1,0 +1,50 @@
+﻿
+.gridview
+{
+	margin:0 auto;	
+	width:98%;
+}
+
+.gridview_header
+{
+	text-align:left;	
+	background-color: #DAE3CC;		
+	font-weight:bold;
+	min-height:30px;
+	border:1px solid #ccc;
+}
+
+.gridview_footer
+{
+    background-color: #ECF1E4;
+}
+
+.gridview_row
+{
+	background-color:White;
+}
+
+.gridview_alter
+{
+	background-color: #eee;
+}
+
+.gridview_selected
+{
+	background-color: #C8C8AC;
+}
+
+.gridview_edit
+{
+	background-color: #5BCAFF;
+}
+
+.gridview tr
+{
+	border-bottom:1px solid #ccc;
+}
+
+.gridview tr:hover
+{
+	background-color:#E1F2FF;
+}

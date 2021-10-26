@@ -1,0 +1,77 @@
+.Style1{font-family: 'GillSans','Gill Sans','Arial',sans-serif;
+font-size: 36px; 
+margin:0;
+word-wrap: break-word;}
+.Style2{font-family: 'GillSans','Gill Sans','Arial',sans-serif;
+font-size: 16px; 
+margin:0;
+letter-spacing: 0.03em; 
+word-wrap: break-word;}
+.Style3{font-family: 'CourierNewPSMT','Courier New',monospace;
+font-size: 14px; 
+margin:0;
+word-wrap: break-word;}
+.Style4{font-family: 'Courier',monospace;
+font-size: 14px; 
+color: #4A433D;
+word-wrap: break-word;}
+.Style5{font-family: 'GillSans','Gill Sans','Arial',sans-serif;
+font-size: 18px; 
+margin:0;
+letter-spacing: 0.03em; 
+word-wrap: break-word;}
+.Style6{font-family: 'GillSans','Gill Sans','Arial',sans-serif;
+font-size: 14px; 
+margin:0;
+letter-spacing: 0.03em; 
+word-wrap: break-word;}
+.Style7{font-family: 'GillSans','Gill Sans','Arial',sans-serif;
+font-size: 14px; 
+margin:0;
+color: #B61700;
+letter-spacing: 0.03em; 
+word-wrap: break-word;}
+.Style8{font-family: 'GillSans','Gill Sans','Arial',sans-serif;
+font-size: 14px; 
+color: #737373;
+letter-spacing: 0.03em; 
+word-wrap: break-word;}
+.Style9{font-family: 'GillSans','Gill Sans','Arial',sans-serif;
+font-size: 14px; 
+margin:0;
+color: #A0A0A0;
+letter-spacing: 0.05em; 
+word-wrap: break-word;}
+.Style10{font-family: 'GillSans','Gill Sans','Arial',sans-serif;
+font-size: 14px; 
+margin:0;
+color: #FEFFFF;
+word-wrap: break-word;}
+.Style11{font-family: 'GillSans','Gill Sans','Arial',sans-serif;
+font-size: 14px; 
+margin:0;
+color: #919191;
+letter-spacing: 0.03em; 
+word-wrap: break-word;}
+.Style12{font-family: 'GillSans','Gill Sans','Arial',sans-serif;
+font-size: 14px; 
+margin:0;
+color: #941100;
+letter-spacing: 0.03em; 
+word-wrap: break-word;}
+.Style13{font-family: 'GillSans','Gill Sans','Arial',sans-serif;
+font-size: 14px; 
+color: #000000;
+letter-spacing: 0.03em; 
+word-wrap: break-word;}
+.Style14{font-family: 'GillSans','Gill Sans','Arial',sans-serif;
+font-size: 14px; 
+color: #941100;
+letter-spacing: 0.03em; 
+word-wrap: break-word;}
+body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing: grayscale}
+a.outerlink{text-decoration:none}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}
+.animhidden{opacity: 0}
+.animvisible{opacity: 1}

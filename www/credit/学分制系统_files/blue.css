@@ -1,0 +1,52 @@
+﻿.level1
+{
+    color:White;
+   	background-color:#6682b1;
+    font-variant: small-caps;
+    font-size: 10pt;
+    border:1px solid white;
+    padding:2px;    
+}
+
+.level1,.level2 {
+    cursor: pointer;
+}
+
+.level1 img, .level2 img
+{
+	border:0;
+}
+
+
+.level1 a,.level2 a
+{
+	text-decoration:none;
+}
+
+.level2
+{
+    color: White;
+    font-size: 9pt;
+    background-color: #6682b1;
+}
+
+
+.level3
+{
+    color: black;
+    background-color: Silver;
+    font-size: 9pt;
+}
+
+.hoverstyle
+{
+    background-color:#d8e4f8;
+	color: black;
+}
+       
+.sublevel1
+{
+    background-color: Gray !important;
+    color: White !important;
+    font-variant: small-caps;
+} 

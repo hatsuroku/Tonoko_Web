@@ -1,0 +1,29 @@
+<!doctype html> 
+<html> 
+<head> 
+<meta charset="utf-8"> 
+
+</head> 
+
+<body> 
+
+<DIV id="CountMsg" class="HotDate"> 
+<font face="arial" color=##434343><center><span id="oneplus">阿六没有一加三的第几小时</span> </center></font>
+<br>
+<center><font face="arial" color=##434343>想他</font></center> 
+</DIV> 
+<!-- 这么简单的功能实现用什么样式表哦 --!>
+
+
+<script type="text/javascript"> 
+function getRTime(){ 
+var EndTime= new Date('2017/10/15 17:50:00'); //截止时间 
+var NowTime = new Date(); 
+var t =EndTime.getTime() - NowTime.getTime(); 
+var h=-(Math.floor(t/1000/60/60)); 
+document.getElementById("oneplus").innerHTML ="阿六没有一加三的第"+ h + "小时"; 
+} 
+setInterval(getRTime,1000); 
+</script> 
+</body> 
+</html>
